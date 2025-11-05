@@ -1,4 +1,4 @@
-# index.md
+# 002-blog
 
 title: 我的第2篇文章
 
